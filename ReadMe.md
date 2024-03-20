@@ -45,7 +45,7 @@ Below are the Python functions developed to bring our solution to life:
 3. **Biggest Safe Zone Finder**: `safe_zone_finder`
 
 ### Function Call Graph
-![Function Call Graph](../1BStories/markdown_assets/call_graph.png)
+![Function Call Graph](markdown_assets/call_graph.png)
 
 ## Facial Detection Models Comparison
 | Models       | Summary                                                                                                      | Strength                  | Weaknesses                                        | Source |

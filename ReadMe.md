@@ -60,3 +60,20 @@ Below are the Python functions developed to bring our solution to life:
 ### Facial Detector Models Performance
 ![models_performance.png](attachment:models_performance.png)
 
+Links to video (with facial boundaries):
+- [Single Narration Video using Dlib CNN](https://drive.google.com/file/d/1bnyWP-D5bfEgsiLaR8wo7nFFElpYyiO8/view?usp=sharing) - very slow
+- [Single Narration Video using DNN with Caffe Framework](https://drive.google.com/file/d/1VCdK9ZDho680DSBTUawthWMN5ykrpJ9i/view?usp=sharing) - quick
+- [Horizontal Video 1](https://drive.google.com/file/d/1qDaF3rSW7vFVYUdmidumnOCC8UDileea/view?usp=sharing)
+- [Horizontal Video 2](https://drive.google.com/file/d/1sLsFpVaW7KG16qj4a9s5zwtwbYcwYHt5/view?usp=sharing)
+
+Links to video (without facial boundaries):
+- [Single Narration Video using DNN with Caffe Framework](https://drive.google.com/file/d/1no5twOpIAWgzEkQ_b1Srv1-DDz6weJ8V/view?usp=sharing)
+- [Horizontal Video 1](https://drive.google.com/file/d/1p7bv7j1oj8cJTfE5spYBDUoNPysZmHSe/view?usp=sharing)
+- [Horizontal Video 2](https://drive.google.com/file/d/1BG9dk8Dx7ej6Qpb5m9T4--uCvu3fhBRY/view?usp=sharing)
+
+Links to video (original videos):
+- [Single Narration Video using DNN with Caffe Framework](https://drive.google.com/file/d/1xr295GsVl4ScIMZvHgfn1PnCf9XpfPnj/view?usp=sharing)
+- [Horizontal Video 1](https://drive.google.com/file/d/1Z1aic1b1Degghs7D1lFz2BPtn1OvP0rS/view?usp=sharing)
+- [Horizontal Video 2](https://drive.google.com/file/d/1LhLHuvWEa2yV03RcyEzb4__WZnzQkvdY/view?usp=sharing)
+
+

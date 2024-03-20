@@ -45,7 +45,7 @@ Below are the Python functions developed to bring our solution to life:
 3. **Biggest Safe Zone Finder**: `safe_zone_finder`
 
 ### Function Call Graph
-![call_graph.png](attachment:call_graph.png)
+![Function Call Graph](../1BStories/markdown_assets/call_graph.png)
 
 ## Facial Detection Models Comparison
 | Models       | Summary                                                                                                      | Strength                  | Weaknesses                                        | Source |
@@ -58,7 +58,7 @@ Below are the Python functions developed to bring our solution to life:
 | DNN with Caffe Framework        | - Provided by OpenCV DNN Module (highly optimized, automatic used of backend resources)<br>- Allows vectorization and parallel computing<br>- Weighted provided by Caffe framework (designed for efficiency) | Highly accurate yet quick | Can be resource intensive as it is still a DNN    | [Link](https://caffe.berkeleyvision.org/) |
 
 ### Facial Detector Models Performance
-![models_performance.png](attachment:models_performance.png)
+![Model Performance](../1BStories/markdown_assets/models_performance.png)
 
 Links to video (with facial boundaries):
 - [Single Narration Video using Dlib CNN](https://drive.google.com/file/d/1bnyWP-D5bfEgsiLaR8wo7nFFElpYyiO8/view?usp=sharing) - very slow

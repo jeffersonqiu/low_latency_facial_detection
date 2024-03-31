@@ -1,7 +1,5 @@
 # Introduction
 
-This work is a part of my application process for the Senior Data Scientist role at 1BStories.
-
 ## Objective
 
 Our primary goal is to develop a model that efficiently identifies usable space within a social media safezone for a 9:16 aspect ratio vertical video. This space must not intersect with any facial regions in a video, ensuring that any added text or graphics do not obstruct viewers' faces. This capability is crucial for creating engaging and professional content that respects the viewer's experience.
